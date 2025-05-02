@@ -17,10 +17,11 @@ const Confirmation = () => {
 
   return (
     <>
-      <Typography variant="body2" color="textPrimary">
-        Thank you for the Booking. Click the below button to return to home page
-      </Typography>
-
+      <Typography
+        variant="body2"
+        color="textPrimary"
+      >Thank you for the Booking. Click the below button to return to home page</Typography>
+  
       <Button
         variant="outlined"
         color="primary"
